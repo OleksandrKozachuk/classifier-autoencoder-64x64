@@ -1,0 +1,4 @@
+matplotlib==3.4.3
+opencv-python==4.5.4.58
+scikit-learn==1.0.1
+tensorflow-gpu==2.7.0
